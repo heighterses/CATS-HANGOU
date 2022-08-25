@@ -1,0 +1,112 @@
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 8%;
+  font-family: cursive;
+  font-size: 200px;
+}
+h3{
+  font-family:  'Montserrat-Bold', sans-serif;
+  font-size: 1.5rem;
+}
+p{ color: grey;
+
+}
+
+.navbar-brand {
+  font-size: 220.5px;
+
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.home-page {
+  background-color: #411530;
+  font-size: 60px;
+}
+
+.cats-img {
+  position: relative;
+  left: 30%;
+}
+
+.download-button {
+  position: relative;
+  left: 32%;
+  margin: 6px;
+}
+
+/* feature */
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+
+  text-align: center;
+  padding: 2%;
+}
+
+.icon{
+  color:  #411530;
+  margin: 10%;
+}
+
+/* testimonial */
+
+#Testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:  #411530;
+  color: white;
+
+
+}
+.testimonial-img{
+  width: 20%;
+  margin: 10px;
+}
+/* payment options */
+#payment-options{
+  text-align: center;
+
+}
+.payment-options-images{
+  width: 15%;
+  margin: 10px;
+}
+
+/* pricing table */
+
+#Pricing-Table{
+padding: 7% 15%;;
+  text-align: center;
+}
+.heading-of-pricing{
+  font-size: 60px;
+  padding-bottom: 2%;
+}
+.pricing{
+  padding: 2% 4%;
+}
+
+/* Last Section */
+
+#last-section{
+  padding: 5% 7%;
+  color: white;
+  background-color:  #411530;
+
+}
+.last-download-buttons{
+  margin: 6px;
+}
+
+#footer{
+  padding: 7% 15%;
+}
+.social-icons{
+  margin: 1.5%;
+}
